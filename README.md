@@ -3,7 +3,7 @@
 ## Data Modeling
 Inspect the CSVs and sketch out an ERD of the tables. Feel free to use a tool like http://www.quickdatabasediagrams.com.
 
-![ERD Diagram](pewlett_hackard_db_ERD)
+![ERD Diagram](pewlett_hackard_db_ERD.png)
 
 ## Data Engineering
 1. Use the information you have to create a table schema for each of the six CSV files, specifying data types, primary keys, foreign keys, and other constraints.
